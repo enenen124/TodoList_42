@@ -2,7 +2,7 @@
 
 一个简洁美观的待办事项列表网页应用。
 
-##页面展示
+页面展示
 <img width="2759" height="1434" alt="image" src="https://github.com/user-attachments/assets/fc1f1919-b77f-46b2-9f2f-ad69a6d4a587" />
 
 <img width="2734" height="1435" alt="image" src="https://github.com/user-attachments/assets/39954bc3-1cf7-4ea5-8748-e4c5ea74a7a3" />
@@ -36,7 +36,7 @@ TodoList_42/
 └── README.md       # 项目说明
 ## 作者
 
-- [郑洁] - 学号 2024131042
+[郑洁] - 学号 2024131042
 ## 版本 2.0
 
 ## 开源许可证
